@@ -1,0 +1,11 @@
+1. Core Genre Strategy: "Rock" is the Primary Revenue Driver
+The "Rock" category is not just the most popular; it dominates the store's financial performance, accounting for over 50% of total revenue. This is significantly higher than the next closest competitors (Latin and Metal).
+Recommendation: Marketing budgets should prioritize Rock music enthusiasts, and inventory expansion should focus on acquiring deep catalogs of classic rock artists rather than diversifying too broadly into niche genres.
+
+2. Geographic Focus: The USA is the Critical Market
+The United States is the undisputed leader in both customer volume and total sales revenue, often generating double the revenue of the next largest country (typically Canada or France).
+Recommendation: Since the US market is the most mature and profitable, customer retention strategies (like loyalty programs) should be piloted there. Meanwhile, "Growth" strategies should target under-performing but high-potential regions like Brazil and Canada to close the gap.
+
+3. Inventory Efficiency: The "Pareto Principle" in Sales
+Sales follow the "80/20 rule," where a small percentage of high-performing tracks (Hits) generate the majority of the profit. Conversely, a significant portion of the track catalog has zero sales history.
+Recommendation: The business should consider discontinuing licensing fees for tracks that haven't sold in over 12 months. Additionally, high-performing tracks should be bundled with lower-performing ones from the same artist to increase average order value.
