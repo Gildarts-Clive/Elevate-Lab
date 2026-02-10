@@ -1,0 +1,45 @@
+
+A/B Test Final Recommendation Report
+====================================
+
+1. Executive Summary
+--------------------
+The A/B test compared the performance of a targeted ad campaign (Test Group) against a Public Service Announcement (Control Group). 
+The primary goal was to determine if the ad campaign significantly increased user conversion rates.
+Result: The ad campaign demonstrated a statistically significant improvement in conversion rates compared to the control group.
+
+2. Methodology
+--------------
+- Groups: 
+    - Control (PSA): 23524 users
+    - Test (Ad): 564577 users
+- Metric: Conversion Rate (Unique conversions / Total users)
+- Statistical Test: Chi-Square Test & Z-Test for Proportions (Alpha = 0.05)
+
+3. Key Findings
+---------------
+- Control Conversion Rate: 1.79%
+- Test Conversion Rate: 2.55%
+- Lift: 43.09%
+  (The ad group converted 43.09% more users relative to the control group.)
+- Confidence Interval (95%): The true difference in conversion rates lies between 0.60% and 0.94%.
+- P-Value: 0.00000
+  (Since p-value < 0.05, the results are statistically significant and not due to random chance.)
+
+4. Additional Insights
+----------------------
+- Day of Week: Conversion rates varied by day. [Refer to 'Conversion Rate by Day' chart in notebook]
+- Hour of Day: Peak conversion hours were identified. [Refer to 'Conversion Rate by Hour' chart in notebook]
+- Ad Exposure: Users who converted typically saw the ad more often.
+
+5. Business Recommendation
+--------------------------
+LAUNCH THE CAMPAIGN.
+The observed lift of ~43% in conversion rate is substantial and statistically reliable. 
+The ad creative and targeting strategy are effective in driving user action compared to the baseline.
+
+6. Next Steps
+-------------
+- Scale the ad campaign to a broader audience.
+- Consider segmenting the audience based on the 'Day of Week' and 'Hour of Day' insights to optimize ad spend during peak conversion times.
+- Monitor long-term retention of converted users to ensure quality of acquisition.
