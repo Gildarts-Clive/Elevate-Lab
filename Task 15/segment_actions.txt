@@ -1,0 +1,49 @@
+Segment: Champions
+1. Reward them with exclusive offers, early access to new products, and special VIP events.
+2. Ask for reviews and referrals to leverage their loyalty for acquisition.
+3. Upsell higher-margin products and cross-sell complementary items without discounting.
+
+Segment: Loyal Customers
+1. Offer loyalty rewards or points to encourage repeat purchases.
+2. Send personalized product recommendations based on their extensive purchase history.
+3. Engage with content marketing that reinforces their choice of your brand.
+
+Segment: Potential Loyalist
+1. Offer membership or loyalty program checks to onboard them to the loyal tier.
+2. Recommend products based on past purchases to increase frequency.
+3. Provide limited-time discounts or free shipping thresholds to increase basket size.
+
+Segment: New Customers
+1. Send a welcome series email with a discount on the next order to encourage a second purchase.
+2. Provide helpful content, guides, or tutorials on how to use their purchased product.
+3. Offer free shipping on their next purchase to reduce friction.
+
+Segment: Promising
+1. Implement retargeting campaigns to bring them back to the site.
+2. Offer small discounts or "deal of the day" promotions.
+3. Highlight customer testimonials to build trust and encourage more frequent buying.
+
+Segment: Need Attention
+1. Send time-sensitive offers to create urgency.
+2. Recommend products based on their last purchase to re-engage interest.
+3. Use push notifications (if applicable) for flash sales.
+
+Segment: At Risk
+1. Send personalized reactivation emails with a "We Miss You" message.
+2. Offer significant discounts or a high-value incentive to win them back.
+3. Survey to understand why they stopped buying and address any service issues.
+
+Segment: Can't Lose Them
+1. Personal outreach from customer service to resolve any potential issues.
+2. Offer aggressive incentives to return, such as store credit.
+3. Analyze their purchase history to find specific products they might need to replenish.
+
+Segment: Hibernating
+1. Include in standard email newsletters but with lower frequency to avoid unsubscribe.
+2. Offer relevant season-based promotions.
+3. Monitor for any signs of activity to trigger a more aggressive campaign.
+
+Segment: Lost
+1. Attempt a final re-engagement campaign with a strong "come back" offer.
+2. Analyze why they left (price, service, etc.) for internal improvement.
+3. Focus marketing budget elsewhere if unresponsive after the final attempt.
